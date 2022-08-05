@@ -1,6 +1,6 @@
 👋 Hi, I’m @nisdegorgil
 - 🌱 I’m student.
-- 🎶 I can sing.
+- ☁️ I can fly.
 
 <!---
 nisdegorgil/nisdegorgil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
