@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nisdegorgil
+👋 Hi, I’m @nisdegorgil
 - 🌱 I’m student.
 - 🎶 I can sing.
 
